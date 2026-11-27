@@ -1,0 +1,63 @@
+# Klearo (كليرو)
+
+> Klearo is a bilingual (Arabic & English) Point of Sale (POS), inventory, and business management software built for shops, supermarkets, restaurants, cafés, medical clinics, and dental clinics in Egypt and the MENA region. It works both offline (Desktop) and online (Cloud), supports standard thermal receipt printers and barcode scanners, and includes a 1-month free trial with no credit card required.
+
+## Core Capabilities
+
+- **Fast POS & Cashier Checkout:** Barcode scanning, discounts, cash/card/split payments, returns, and instant 80mm thermal receipt printing.
+- **Real-Time Inventory Management:** Automatic stock deduction on every sale, low-stock alerts, expiry-date tracking, supplier management, and barcode stocktaking.
+- **Shift Closing & Net Profit Reports:** Instant daily and monthly reports covering sales, expenses, returns, cashier drawer reconciliation, and role-based staff permissions.
+- **Offline-First Reliability:** Continues selling, printing receipts, and saving invoices locally even when the internet disconnects, with automatic backups and sync.
+- **Deployment Options:** Available as an Online Cloud version or a full Offline Desktop version (Windows & Web).
+- **Free Trial & Onboarding:** 1-month free trial with no credit card required, guided setup, data migration assistance, and direct Arabic/English WhatsApp support.
+
+## Target Industries & Solutions
+
+- [Supermarket Management & POS (AR)](https://klearo.online/solutions/supermarkets/): Barcode scanning, scale barcodes, expiry-date alerts, suppliers, and fast stocktaking.
+- [Supermarket Management & POS (EN)](https://klearo.online/en/solutions/supermarkets/): English overview of Klearo for supermarkets and grocery stores.
+- [Retail & Shop Accounting (AR)](https://klearo.online/solutions/retail/): Sales, inventory, customer credit, installments, and clear invoices.
+- [Retail & Shop Accounting (EN)](https://klearo.online/en/solutions/retail/): English overview of Klearo for retail shops.
+- [Restaurant & Café POS (AR)](https://klearo.online/solutions/restaurants/): Table management, dine-in/takeaway orders, kitchen display, and flexible menus.
+- [Restaurant & Café POS (EN)](https://klearo.online/en/solutions/restaurants/): English overview of Klearo for restaurants and cafés.
+- [Clinic Management Software (AR)](https://klearo.online/solutions/clinics/): Appointments, patient records, visit history, and billing in Arabic.
+- [Clinic Management Software (EN)](https://klearo.online/en/solutions/clinics/): English overview of Klearo for medical clinics.
+- [Dental Clinic Software (AR)](https://klearo.online/solutions/dental/): Dental charting, treatment plans, and organized patient installments.
+- [Dental Clinic Software (EN)](https://klearo.online/en/solutions/dental/): English overview of Klearo for dental clinics.
+
+## Portfolio & Live Systems
+
+- [Portfolio — Arabic](https://klearo.online/portfolio/): Showcase of live Klearo desktop and retail systems with screenshots and full feature breakdowns.
+- [Portfolio — English](https://klearo.online/en/portfolio/): English showcase of live Klearo software projects.
+- [Klearo Cashier — Arabic](https://klearo.online/portfolio/klearo-cashier/): Offline-first Windows Desktop POS for supermarkets, clothing/apparel stores, and retail shops (11 modules: POS, dual shop/warehouse stock, credit customers & receipt vouchers, blind shift handover, supplier debt ledger, payroll, visual thermal receipt & PDF report designers, 16 cashier permissions, hardware licensing, and optional multi-branch online sync on request).
+- [Klearo Cashier — English](https://klearo.online/en/portfolio/klearo-cashier/): English overview, use cases, 11-module feature list, and live screenshots of Klearo Cashier.
+
+## Key Pages
+
+- [Home — Arabic](https://klearo.online/): Main Arabic landing page, live POS preview, workflow chapters, and FAQs.
+- [Home — English](https://klearo.online/en/): Main English landing page.
+- [All Solutions — Arabic](https://klearo.online/solutions/): Full catalog of industry-tailored Klearo systems.
+- [All Solutions — English](https://klearo.online/en/solutions/): English catalog of industry-tailored Klearo systems.
+- [Portfolio — Arabic](https://klearo.online/portfolio/) | [English](https://klearo.online/en/portfolio/)
+- [About Klearo — Arabic](https://klearo.online/about/): Company mission and engineering philosophy.
+- [About Klearo — English](https://klearo.online/en/about/): English company overview.
+- [Contact — Arabic](https://klearo.online/contact/): Direct WhatsApp, email, and social channels.
+- [Contact — English](https://klearo.online/en/contact/): English contact page.
+- [Privacy Policy](https://klearo.online/privacy/) | [English](https://klearo.online/en/privacy/)
+- [Terms of Service](https://klearo.online/terms/) | [English](https://klearo.online/en/terms/)
+
+## Frequently Asked Questions (Quick Facts)
+
+- **Does Klearo work without internet?** Yes. The Offline Desktop edition continues selling, printing receipts, and managing inventory even when the internet is disconnected.
+- **What hardware does Klearo support?** Standard USB/Bluetooth barcode scanners, 80mm thermal receipt printers, barcode label printers, and supermarket barcode scales.
+- **What is included in the free trial?** A full 1-month free trial with no credit card required, tailored setup for your business type, and direct support via WhatsApp.
+- **Which regions does Klearo serve?** Egypt, Saudi Arabia, UAE, Kuwait, Qatar, and the wider MENA region.
+- **Can I migrate data from another system?** Yes. Klearo's onboarding team helps import existing products, balances, and customer/patient records.
+
+## Official Channels & Entity Links
+
+- Website: https://klearo.online
+- Sitemap: https://klearo.online/sitemap.xml
+- Email: klearo.official@gmail.com
+- WhatsApp: +201002958292
+- Facebook: https://www.facebook.com/klearo.official/
+- Instagram: https://www.instagram.com/klearo.official

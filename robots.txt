@@ -1,0 +1,41 @@
+User-Agent: *
+Allow: /
+Disallow: /pricing/
+Disallow: /en/pricing/
+
+User-Agent: OAI-SearchBot
+Allow: /
+Disallow: /pricing/
+Disallow: /en/pricing/
+
+User-Agent: ChatGPT-User
+Allow: /
+Disallow: /pricing/
+Disallow: /en/pricing/
+
+User-Agent: PerplexityBot
+Allow: /
+Disallow: /pricing/
+Disallow: /en/pricing/
+
+User-Agent: Claude-SearchBot
+Allow: /
+Disallow: /pricing/
+Disallow: /en/pricing/
+
+User-Agent: ClaudeBot
+Allow: /
+Disallow: /pricing/
+Disallow: /en/pricing/
+
+User-Agent: Google-Extended
+Allow: /
+Disallow: /pricing/
+Disallow: /en/pricing/
+
+User-Agent: Applebot-Extended
+Allow: /
+Disallow: /pricing/
+Disallow: /en/pricing/
+
+Sitemap: https://klearo.online/sitemap.xml
